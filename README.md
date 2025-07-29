@@ -1,1 +1,0 @@
-# Detec-o-de-Sonol-ncia-em-Motorista-com-Sensores-PPG-e-GSR
